@@ -1,4 +1,7 @@
 README.md
+
+This is a brand new project so you're not going to see much different than CrewAI for the moment. 
+
 # CodeCrew
 
 A fork of CrewAI emphasizing multi-model collaboration for improving code generation and quality control. CodeCrew leverages the `function_calling_llm` feature within CrewAI to orchestrate tasks across LLMs specialized in code understanding and analysis.
